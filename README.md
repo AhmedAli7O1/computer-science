@@ -1,6 +1,2 @@
-
-## Contents
-* [Courses](#courses)
-
-
-# Courses
+## Courses
+## Projects
